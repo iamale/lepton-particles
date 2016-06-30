@@ -1,2 +1,3 @@
 # lepton-particles
-A temporary store for lepton particles
+
+A temporary store for Lepton particles.
